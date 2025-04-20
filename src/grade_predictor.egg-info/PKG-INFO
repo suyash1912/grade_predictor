@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: grade_predictor
+Version: 0.0.0
+Summary: A small python package for ml app
+Dynamic: description
+Dynamic: summary
+
+# grade_predictor
+it predicts students grades based on numerous features
